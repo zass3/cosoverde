@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/PARQUE-100_luminance.png",
+  "resources": {
+    "originalImage": "PARQUE-100_original.png",
+    "croppedImage": "PARQUE-100_cropped.png",
+    "thumbnailImage": "PARQUE-100_thumbnail.png",
+    "luminanceImage": "PARQUE-100_luminance.png"
+  },
+  "name": "PARQUE-100",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 476,
+    "height": 634,
+    "isRotated": false,
+    "originalWidth": 476,
+    "originalHeight": 634
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795228751311,
+  "updated": 1795228751311
+}

@@ -63,14 +63,14 @@
       "parentId": "59179790-e158-4d44-b017-ef137d16bf19",
       "position": [
         0,
-        -1.1102230246251565e-16,
-        0.5000000000000001
+        0,
+        0.073
       ],
       "rotation": [
-        -0.041649380172400496,
+        0.014466137619630424,
         0,
         0,
-        0.9991322881036602
+        0.9998953599564157
       ],
       "scale": [
         1,
@@ -97,6 +97,34 @@
         10,
         5,
         5
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "51a8a465-ed7b-4c09-a1b3-a2bbb31fa305": {
+      "components": {},
+      "geometry": null,
+      "id": "51a8a465-ed7b-4c09-a1b3-a2bbb31fa305",
+      "imageTarget": {
+        "name": "PARQUE-100"
+      },
+      "material": null,
+      "name": "Marcador · PARQUE-100",
+      "order": 5.5,
+      "parentId": "cc545118-efac-4598-8cad-aa8afba6c10b",
+      "position": [
+        0,
+        0,
+        0
       ],
       "rotation": [
         0,
@@ -204,6 +232,58 @@
         1
       ]
     },
+    "c9ecad52-4883-4a1a-bbc1-4e5ba8ec6f2d": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.743,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 0.7484276729559748,
+        "height": 1
+      },
+      "id": "c9ecad52-4883-4a1a-bbc1-4e5ba8ec6f2d",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/PARQUE-100.mp4"
+        }
+      },
+      "name": "PARQUE-100",
+      "order": 0.2795441244746806,
+      "parentId": "51a8a465-ed7b-4c09-a1b3-a2bbb31fa305",
+      "position": [
+        0,
+        0,
+        0.056
+      ],
+      "rotation": [
+        0.008726535498373935,
+        0,
+        0,
+        0.9999619230641713
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
     "f96e5070-0161-4668-a87d-56cf939c204a": {
       "components": {
         "__inre_aparicion__": {
@@ -237,14 +317,14 @@
       "parentId": "6ebc6a35-ae1a-40ea-9f2d-f96eb432579b",
       "position": [
         0.006,
-        1.1102230246251565e-16,
-        0.5160000000000001
+        0,
+        0.091
       ],
       "rotation": [
-        -0.054058780778296234,
         0,
         0,
-        0.9985377550302066
+        0,
+        1
       ],
       "scale": [
         1,
