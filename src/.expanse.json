@@ -30,6 +30,58 @@
         1
       ]
     },
+    "1ed12e8d-af7e-4abc-888a-b39fd1f25aaf": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.743,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 0.7493261455525606,
+        "height": 1
+      },
+      "id": "1ed12e8d-af7e-4abc-888a-b39fd1f25aaf",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/caida.mp4"
+        }
+      },
+      "name": "caida",
+      "order": 0.6193484539366592,
+      "parentId": "fdff96bf-a3c4-4af6-9ed3-14326a708a2e",
+      "position": [
+        0,
+        0,
+        0.122
+      ],
+      "rotation": [
+        -0.006776966832922324,
+        0,
+        0,
+        0.9999770360966024
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
     "1fd94e64-466f-4fcd-8ad7-f4d4fdb5541e": {
       "components": {
         "__inre_aparicion__": {
@@ -158,6 +210,34 @@
       "material": null,
       "name": "Cámara",
       "order": 0.5,
+      "parentId": "cc545118-efac-4598-8cad-aa8afba6c10b",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "fdff96bf-a3c4-4af6-9ed3-14326a708a2e": {
+      "components": {},
+      "geometry": null,
+      "id": "fdff96bf-a3c4-4af6-9ed3-14326a708a2e",
+      "imageTarget": {
+        "name": "2-100"
+      },
+      "material": null,
+      "name": "Marcador · 2-100",
+      "order": 4.5,
       "parentId": "cc545118-efac-4598-8cad-aa8afba6c10b",
       "position": [
         0,
