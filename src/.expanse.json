@@ -82,6 +82,34 @@
         "paused": false
       }
     },
+    "321b234c-c72e-4200-85d7-0eac9d465d24": {
+      "components": {},
+      "geometry": null,
+      "id": "321b234c-c72e-4200-85d7-0eac9d465d24",
+      "imageTarget": {
+        "name": "golpe"
+      },
+      "material": null,
+      "name": "Marcador · golpe",
+      "order": 7.5,
+      "parentId": "cc545118-efac-4598-8cad-aa8afba6c10b",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
     "45328037-af83-4558-8062-ebae4f17824b": {
       "components": {},
       "geometry": null,
@@ -353,6 +381,58 @@
         0,
         0,
         0.9999619230641713
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "e31d2f86-a937-4140-8fcd-4167390c2ed7": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.745,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 0.7520325203252033,
+        "height": 1
+      },
+      "id": "e31d2f86-a937-4140-8fcd-4167390c2ed7",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/golpe.mp4"
+        }
+      },
+      "name": "golpe",
+      "order": 0.9538115780352843,
+      "parentId": "321b234c-c72e-4200-85d7-0eac9d465d24",
+      "position": [
+        0,
+        0,
+        0.059
+      ],
+      "rotation": [
+        0.005402816348784146,
+        0,
+        0,
+        0.9999854046812391
       ],
       "scale": [
         1,

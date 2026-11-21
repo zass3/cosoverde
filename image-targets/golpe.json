@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/golpe_luminance.png",
+  "resources": {
+    "originalImage": "golpe_original.png",
+    "croppedImage": "golpe_cropped.png",
+    "thumbnailImage": "golpe_thumbnail.png",
+    "luminanceImage": "golpe_luminance.png"
+  },
+  "name": "golpe",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 737,
+    "height": 982,
+    "isRotated": false,
+    "originalWidth": 737,
+    "originalHeight": 982
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795269364817,
+  "updated": 1795269364817
+}
