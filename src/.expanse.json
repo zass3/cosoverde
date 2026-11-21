@@ -138,6 +138,58 @@
         1
       ]
     },
+    "5497225a-e513-4373-8641-6eff08eeb364": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.744,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 0.75,
+        "height": 1
+      },
+      "id": "5497225a-e513-4373-8641-6eff08eeb364",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/cosoverde_COLGADO_un_brazo.mp4"
+        }
+      },
+      "name": "cosoverde_COLGADO_un_brazo",
+      "order": 0.17162965463732416,
+      "parentId": "c332636b-d4bb-49c6-aaf7-eb240961eccd",
+      "position": [
+        0,
+        0,
+        0.042
+      ],
+      "rotation": [
+        -0.0068093798741036375,
+        0,
+        0,
+        0.9999768159041138
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
     "59179790-e158-4d44-b017-ef137d16bf19": {
       "components": {},
       "geometry": null,
@@ -214,6 +266,34 @@
       "material": null,
       "name": "Cámara",
       "order": 0.5,
+      "parentId": "cc545118-efac-4598-8cad-aa8afba6c10b",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "c332636b-d4bb-49c6-aaf7-eb240961eccd": {
+      "components": {},
+      "geometry": null,
+      "id": "c332636b-d4bb-49c6-aaf7-eb240961eccd",
+      "imageTarget": {
+        "name": "caida_2"
+      },
+      "material": null,
+      "name": "Marcador · caida_2",
+      "order": 6.5,
       "parentId": "cc545118-efac-4598-8cad-aa8afba6c10b",
       "position": [
         0,

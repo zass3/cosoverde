@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/caida_2_luminance.png",
+  "resources": {
+    "originalImage": "caida_2_original.png",
+    "croppedImage": "caida_2_cropped.png",
+    "thumbnailImage": "caida_2_thumbnail.png",
+    "luminanceImage": "caida_2_luminance.png"
+  },
+  "name": "caida_2",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 737,
+    "height": 982,
+    "isRotated": false,
+    "originalWidth": 737,
+    "originalHeight": 982
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795268072870,
+  "updated": 1795268072870
+}
